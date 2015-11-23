@@ -60,6 +60,14 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entitys\Aluno.cs" />
+    <Compile Include="Entitys\Email.cs" />
+    <Compile Include="Entitys\Endereco.cs" />
+    <Compile Include="Entitys\Familiar.cs" />
+    <Compile Include="Entitys\Pessoa.cs" />
+    <Compile Include="Entitys\SexoEnum.cs" />
+    <Compile Include="Entitys\Telefone.cs" />
+    <Compile Include="Entitys\TipoFamiliarEnum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

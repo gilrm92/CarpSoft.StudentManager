@@ -1,0 +1,6 @@
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\bin\CarpSoft.StudentManager.dll.config
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\bin\CarpSoft.StudentManager.dll
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\bin\CarpSoft.StudentManager.pdb
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\obj\Debug\CarpSoft.StudentManager.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\obj\Debug\CarpSoft.StudentManager.dll
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.StudentManager\obj\Debug\CarpSoft.StudentManager.pdb

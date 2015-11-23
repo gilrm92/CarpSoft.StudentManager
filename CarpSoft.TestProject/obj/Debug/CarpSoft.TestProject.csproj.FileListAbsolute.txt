@@ -1,0 +1,5 @@
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.TestProject\bin\Debug\CarpSoft.TestProject.dll
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.TestProject\bin\Debug\CarpSoft.TestProject.pdb
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.TestProject\obj\Debug\CarpSoft.TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.TestProject\obj\Debug\CarpSoft.TestProject.dll
+C:\Users\Gilberto\Desktop\StudentManager\CarpSoft.StudentManager\CarpSoft.TestProject\obj\Debug\CarpSoft.TestProject.pdb
