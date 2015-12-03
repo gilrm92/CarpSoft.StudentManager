@@ -8,6 +8,7 @@ namespace CarpSoft.StudentManager.Entitys
     public class Aluno : Pessoa
     {
         public int Matricula { get; set; }
+        public UnidadeEscolar UnidadeEscolar { get; set; }
         public IList<Familiar> DadosFamiliares { get; set; }
     }
 }
